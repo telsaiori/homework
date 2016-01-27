@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  buy: MyString
+  spend: 1
+  comment: MyString
+
+two:
+  buy: MyString
+  spend: 1
+  comment: MyString
